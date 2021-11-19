@@ -3,6 +3,12 @@
 **Versioning goes as follows:** Macro.Major.Minor:Mini
 A number for mini will not always be included
 
+## 0.4.1:1
+3 new SLDs added to ``/sld``
+- customsld
+- shortsld
+- faucetsld
+
 ## 0.4.1
 After logging in, user token is saved for 30 days.
 
