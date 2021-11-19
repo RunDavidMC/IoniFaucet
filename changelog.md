@@ -3,6 +3,12 @@
 **Versioning goes as follows:** Macro.Major.Minor:Mini
 A number for mini will not always be included
 
+## 0.4.1
+After logging in, user token is saved for 30 days.
+
+## 0.4.0
+Added login system! Use ``/login`` and ``/register`` to setup an account.
+
 ## 0.3.1
 Quiz now requries user to put at least 10 characters in the text fields.
 
