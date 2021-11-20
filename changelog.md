@@ -3,6 +3,9 @@
 **Versioning goes as follows:** ``Macro.Major.Minor:Mini``.
 A number for mini will not always be included
 
+## 0.5.3
+``/u`` now shows an under construction site.
+
 ## 0.5.2:2
 Usernames now must follow URL-friendly rules. ``^[a-zA-Z0-9_-]+$``
 
