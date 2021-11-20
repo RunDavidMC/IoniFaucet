@@ -3,6 +3,9 @@
 **Versioning goes as follows:** ``Macro.Major.Minor:Mini``.
 A number for mini will not always be included
 
+## 0.5.3:1
+Users rank 0 or higher can now access ``/dash``. Negative rank levels will restrict permissions.
+
 ## 0.5.3
 ``/u`` now shows an under construction site.
 
