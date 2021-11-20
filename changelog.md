@@ -3,6 +3,10 @@
 **Versioning goes as follows:** ``Macro.Major.Minor:Mini``.
 A number for mini will not always be included
 
+## 0.5.2:1
+Trailing slashes no longer matter.
+Ex. ``/dash/`` and ``/dash`` now show the same page, rather than ``/dash/`` returning a 404 error.
+
 ## 0.5.2
 ``/dash`` now shows referral code and amount of referrals a user has.
 
