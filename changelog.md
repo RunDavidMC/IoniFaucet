@@ -3,6 +3,12 @@
 **Versioning goes as follows:** ``Macro.Major.Minor:Mini``.
 A number for mini will not always be included
 
+## 0.5.1
+When a user uses a referral code then claims a TLD, that is considered a referral for the referring user (will be implemented more later on).
+
+## 0.5.0
+Using a referral code now makes the **Don't have a Namebase account? Sign up now!** have the referrer's link (must be manually set by an admin for now).
+
 ## 0.4.3
 Accessing ``/r/[code]`` will put a cookie in the user's browser and redirect them to the main site. Rerferral codes for users default to being usernames.
 
