@@ -3,6 +3,9 @@
 **Versioning goes as follows:** ``Macro.Major.Minor:Mini``.
 A number for mini will not always be included
 
+## 0.5.2
+``/dash`` now shows referral code and amount of referrals a user has.
+
 ## 0.5.1
 When a user uses a referral code then claims a TLD, that is considered a referral for the referring user (will be implemented more later on).
 
