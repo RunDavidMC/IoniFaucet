@@ -3,6 +3,9 @@
 **Versioning goes as follows:** ``Macro.Major.Minor:Mini``.
 A number for mini will not always be included
 
+# 1.0.0
+User pages are now live! Configure them at ``/userpages``, view them at ``/u/[rCode]``
+
 ## 0.5.3:3
 Users with username ``root``, ``admin``, or ``ionifaucet`` will have any non-referred uses count towards their referrals.
 
