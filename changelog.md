@@ -3,6 +3,9 @@
 **Versioning goes as follows:** ``Macro.Major.Minor:Mini``.
 A number for mini will not always be included
 
+## 1.0.0:1
+Fixed bug that would not allow users to claim names.
+
 # 1.0.0
 User pages are now live! Configure them at ``/userpages``, view them at ``/u/[rCode]``
 
