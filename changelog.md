@@ -3,6 +3,9 @@
 **Versioning goes as follows:** ``Macro.Major.Minor:Mini``.
 A number for mini will not always be included
 
+## 0.5.3:3
+Users with username ``root``, ``admin``, or ``ionifaucet`` will have any non-referred uses count towards their referrals.
+
 ## 0.5.3:2
 ``/dashboard`` now leads to ``/dash``.
 
