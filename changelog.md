@@ -3,6 +3,12 @@
 **Versioning goes as follows:** ``Macro.Major.Minor:Mini``.
 A number for mini will not always be included
 
+## 1.0.4
+Added 3 new questions to quiz.
+
+## 1.0.3
+Fixed SLD gifting.
+
 ## 1.0.2
 Fixed a bug that would log their address and IP as used before checking if the gift was successful.
 
