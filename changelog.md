@@ -3,6 +3,9 @@
 **Versioning goes as follows:** ``Macro.Major.Minor:Mini``.
 A number for mini will not always be included
 
+## 1.0.2
+Fixed a bug that would log their address and IP as used before checking if the gift was successful.
+
 ## 1.0.1:1
 Fixed a bug that only allowed most recently obtained name to be checked when uploading.
 
