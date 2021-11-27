@@ -3,6 +3,9 @@
 **Versioning goes as follows:** ``Macro.Major.Minor:Mini``.
 A number for mini will not always be included
 
+## 1.0.1:1
+Fixed a bug that only allowed most recently obtained name to be checked when uploading.
+
 ## 1.0.1
 Fixed a bug that didn't allow uploading names with ``r`` or ``n`` in them.
 
