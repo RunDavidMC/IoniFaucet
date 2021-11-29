@@ -3,6 +3,9 @@
 **Versioning goes as follows:** ``Macro.Major.Minor:Mini``.
 A number for mini will not always be included
 
+## 1.0.4:1
+Added URL for referral link to dashboard for easy of use.
+
 ## 1.0.4
 Added 3 new questions to quiz.
 
