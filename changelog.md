@@ -3,8 +3,11 @@
 **Versioning goes as follows:** ``Macro.Major.Minor:Mini``.
 A number for mini will not always be included
 
+## 1.0.5:1
+Fixed a minor bug pretaining to malformed referral codes.
+
 ## 1.0.5
-Fixed bug that wouldn't log referrals
+Fixed bug that wouldn't log referrals.
 
 ## 1.0.4:1
 Added URL for referral link to dashboard for easy of use.
